@@ -70,13 +70,3 @@ predictions = model.predict(X)
 print("Predictions:", predictions)
 ```
 
-## 📝 Contributing
-Feel free to open issues, submit PRs, or suggest improvements. Contributions are always welcome!
-
-## 📜 License
-This project is **MIT licensed**. Feel free to use and modify it!
-
-## 🙌 Acknowledgments
-This project was inspired by the fundamental machine learning concepts and aims to provide a deeper understanding of how ML algorithms work internally.
-
-🚀 Happy Coding!
