@@ -4,12 +4,6 @@
 ## 📌 Introduction
 This repository contains implementations of fundamental machine learning algorithms **from scratch** using Python and NumPy. Each algorithm is organized into separate modules, making it easy to understand and modify.
 
-### 🔥 Why this repo?
-- No external ML libraries (like Scikit-Learn, TensorFlow, PyTorch)
-- Pure Python + NumPy implementation
-- Educational and beginner-friendly
-- Well-structured code with clear documentation
-
 ## 🚀 Implemented Algorithms
 This repository includes the following machine learning algorithms:
 
