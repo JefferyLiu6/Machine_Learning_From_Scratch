@@ -50,17 +50,5 @@ pip install numpy
 ## 📌 Usage
 Each algorithm can be tested individually. Example usage:
 
-```python
-from linear_regression.LR import LinearRegression
-import numpy as np
 
-# Sample data
-X = np.array([[1], [2], [3], [4], [5]])
-y = np.array([2, 4, 6, 8, 10])
-
-model = LinearRegression(learning_rate=0.01, epochs=1000, normalize=True)
-model.fit(X, y)
-predictions = model.predict(X)
-print("Predictions:", predictions)
-```
 
