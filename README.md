@@ -20,21 +20,6 @@ This repository includes the following machine learning algorithms:
 - **K-Means Clustering** (`K-Mean/k_mean.py`)
 - **Principal Component Analysis (PCA)** (`PCA/pca.py`)
 
-## 📂 Project Structure
-```
-Machine_Learning_From_Scratch/
-│── Decision_Tree/
-│── K-Mean/
-│── NaiveBayes/
-│── PCA/
-│── Perceptron/
-│── SVM/
-│── kNN/
-│── linear_regression/
-│── logistic_regression/
-│── tools/
-│── README.md
-
 
 ## 🛠 Installation
 Clone this repository to get started:
