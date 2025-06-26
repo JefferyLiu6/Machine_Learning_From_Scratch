@@ -4,9 +4,6 @@
 ## 📌 Introduction
 This repository contains implementations of fundamental machine learning algorithms **from scratch** using Python and NumPy. Each algorithm is organized into separate modules, making it easy to understand and modify.
 
-## 🚀 Implemented Algorithms
-This repository includes the following machine learning algorithms:
-
 ### 🔷 Supervised Learning
 - **Linear Regression** (`linear_regression/LR.py`)
 - **Logistic Regression** (`logistic_regression/LR.py`)
