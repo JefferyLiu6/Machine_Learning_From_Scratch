@@ -33,9 +33,7 @@ class SVM:
                     self.bias -= self.learning_rate * y[idx]
     
     def predict(self, X):
-        """
-        Predict class labels for samples in X.
-        """
+
         if self.normalize:
             X = normalize_features(X)
         linear_output = np.dot(X, self.weights) - self.bias
